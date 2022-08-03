@@ -5,3 +5,4 @@
 - add 4th point
 - add 5th point
 - add 6th point
+- add 7th point
